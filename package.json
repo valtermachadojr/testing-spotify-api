@@ -14,10 +14,11 @@
   "author": "Valter Machado <valtermachadojr@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "spotify-wrapper": "^2.0.2"
+    "spotify-wrapper": "^2.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
     "babel-loader": "^8.0.6",
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
