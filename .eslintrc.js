@@ -12,6 +12,7 @@ module.exports = {
     "semi": 0,
     "no-undef": "off",
     "radix": "off",
+    "arrow-parens": "off",
     "class-methods-use-this": "off",
     "object-curly-newline": "off",
     "import/no-unresolved": "off",
@@ -19,7 +20,7 @@ module.exports = {
     "space-before-function-paren": 0,
     "jsx-a11y/no-static-element-interactions": "off",
     "jsx-a11y/anchor-is-valid": 0,
-    "import/prefer-default-export": false,
+    "import/prefer-default-export": 0,
     "no-param-reassign": "off",
     "linebreak-style": 0,
     "operator-linebreak": "off"
